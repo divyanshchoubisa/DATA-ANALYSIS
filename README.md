@@ -8,7 +8,7 @@ These are the notebooks from IBM DATA ANALYSIS COURSE ON COURSERA.
                        3. Clean and transform data to a format which is good enough to do analysis and perform data modeling.</br>
                        4. Analyze data.</br>
                        5. Interpret results in a way that is easy to understand like giving good facts and numbers or providing different visualization in form of different graphs and charts.</br>
-</br>
+
 ## Data Wrangling                       
 </br>
 -[Data Wrangling](https://github.com/divyanshchoubisa/DATA-ANALYSIS/blob/master/data-wrangling.ipynb/ "Data Wrangling") is a process of cleaning and structuring the complex available data to a format which would be easy to analyse.</br>
