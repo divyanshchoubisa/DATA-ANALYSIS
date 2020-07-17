@@ -26,6 +26,13 @@ It is a process to clean, inspect and understand data by applying different math
     * Summarizing the data.
     * Data Resampling.
 
+## Model Development
+- It can be thought of as a mathematical equation used to figure out or find out or predict one or more values or variables.
+- It helps relating one or more independent variables to dependent variables.
+- Link of [Model Development](https://github.com/divyanshchoubisa/DATA-ANALYSIS/blob/master/model-development.ipynb) notebook.
+## Model Evaluation and Refinement
+- [Model Evaluation](https://github.com/divyanshchoubisa/DATA-ANALYSIS/blob/master/model-evaluation-and-refinement.ipynb) tells us how our model perfoms in real world.
+- Model refinment simply means refining the model.
 
 
 
