@@ -13,19 +13,19 @@ These are the notebooks from IBM DATA ANALYSIS COURSE ON COURSERA.
 </br>
 -[Data Wrangling](https://github.com/divyanshchoubisa/DATA-ANALYSIS/blob/master/data-wrangling.ipynb/ "Data Wrangling") is a process of cleaning and structuring the complex available data to a format which would be easy to analyse.</br>
 - It mainly includes:</br>
-            1. Data Cleaning</br>
-                 1.1 - Handling missing values.
-                 1.2 - Remove Duplicates.
-                 1.3 - Making data readable e.g Replacing all "New York" values in all rows with "NY" or vice versa based on problem you are solving.</br>
-                 - There are many more different problem encountered while doing data cleaning.
-            2. Data Transformation</br>
-                 2.1 - It is the process of converting data from one format or structure into another format or structure.</br> 
-            3. Data enrichment</br>
-                3.1 - Using available data to create/derive new data.</br>
-                      3.1.1 - You can make new columns by perfoming appropriate mathematical operations.</br>
-                      3.2.2 - Perform Binning.</br>
-                      3.3.3 - Summarizing the data.</br>
-                      3.4.4 - Data Resampling.</br>
+            1. Data Cleaning
+                - Handling missing values.
+                - Remove Duplicates.
+                - Making data readable e.g Replacing all "New York" values in all rows with "NY" or vice versa based on problem you are solving.</br>
+                - There are many more different problem encountered while doing data cleaning.
+            2. Data Transformation
+                 - It is the process of converting data from one format or structure into another format or structure.</br> 
+            3. Data enrichment
+                - Using available data to create/derive new data.
+                     - You can make new columns by perfoming appropriate mathematical operations.
+                     - Perform Binning.
+                     - Summarizing the data.
+                     - Data Resampling.
 
 
 
