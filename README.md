@@ -16,7 +16,7 @@ It is a process to clean, inspect and understand data by applying different math
     * Handling missing values.
     * Remove Duplicates.
     * Making data more appropriate as per the problem you are working on for e.g Replacing all "New York" values in all rows with "NY" or vice versa based on problem you are solving.</br>
-    * So mainly its about solving all those different problems you encounter while doing data cleaning to make data more understandable.
+    * So, mainly its about solving all those different problems you encounter while doing data cleaning to make data more understandable.
   - Data Transformation
     * It is the process of converting data from one format or structure into another format or structure.
   - Data enrichment
