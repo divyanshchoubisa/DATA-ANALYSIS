@@ -31,7 +31,7 @@ It is a process to clean, inspect and understand data by applying different math
 - It helps relating one or more independent variables to dependent variables.
 - Link of [Model Development](https://github.com/divyanshchoubisa/DATA-ANALYSIS/blob/master/model-development.ipynb) notebook.
 ## Model Evaluation and Refinement
-- [Model Evaluation](https://github.com/divyanshchoubisa/DATA-ANALYSIS/blob/master/model-evaluation-and-refinement.ipynb) tells us how our model perfoms in real world.
+- [Model Evaluation](https://github.com/divyanshchoubisa/DATA-ANALYSIS/blob/master/model-evaluation-and-refinement.ipynb) tells us how good our model perfoms in real world.
 - Model refinment simply means refining the model.
 
 
