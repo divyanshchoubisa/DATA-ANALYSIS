@@ -15,8 +15,8 @@ It is a process to clean, inspect and understand data by applying different math
   - Data Cleaning
     * Handling missing values.
     * Remove Duplicates.
-    * Making data readable e.g Replacing all "New York" values in all rows with "NY" or vice versa based on problem you are solving.</br>
-    * There are many more different problem encountered while doing data cleaning.
+    * Making data more appropriate as per the problem you are working on for e.g Replacing all "New York" values in all rows with "NY" or vice versa based on problem you are solving.</br>
+    * So mainly its about solving all those different problems you encounter while doing data cleaning to make data more understandable.
   - Data Transformation
     * It is the process of converting data from one format or structure into another format or structure.
   - Data enrichment
@@ -30,6 +30,7 @@ It is a process to clean, inspect and understand data by applying different math
 - It can be thought of as a mathematical equation used to figure out or find out or predict one or more values or variables.
 - It helps relating one or more independent variables to dependent variables.
 - Link of [Model Development](https://github.com/divyanshchoubisa/DATA-ANALYSIS/blob/master/model-development.ipynb) notebook.
+
 ## Model Evaluation and Refinement
 - [Model Evaluation](https://github.com/divyanshchoubisa/DATA-ANALYSIS/blob/master/model-evaluation-and-refinement.ipynb) tells us how good our model perfoms in real world.
 - Model refinment simply means refining the model.
