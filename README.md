@@ -13,19 +13,19 @@ These are the notebooks from IBM DATA ANALYSIS COURSE ON COURSERA.
 </br>
 -[Data Wrangling](https://github.com/divyanshchoubisa/DATA-ANALYSIS/blob/master/data-wrangling.ipynb/ "Data Wrangling") is a process of cleaning and structuring the complex available data to a format which would be easy to analyse.</br>
 - It mainly includes:</br>
-            1. Data Cleaning
-                - Handling missing values.
-                - Remove Duplicates.
-                - Making data readable e.g Replacing all "New York" values in all rows with "NY" or vice versa based on problem you are solving.</br>
-                - There are many more different problem encountered while doing data cleaning.
-            2. Data Transformation
+            1.   Data Cleaning
+                 - Handling missing values.
+                 - Remove Duplicates.
+                 - Making data readable e.g Replacing all "New York" values in all rows with "NY" or vice versa based on problem you are solving.</br>
+                 - There are many more different problem encountered while doing data cleaning.
+            2.   Data Transformation
                  - It is the process of converting data from one format or structure into another format or structure.</br> 
-            3. Data enrichment
-                - Using available data to create/derive new data.
-                     - You can make new columns by perfoming appropriate mathematical operations.
-                     - Perform Binning.
-                     - Summarizing the data.
-                     - Data Resampling.
+            3.   Data enrichment
+                 - Using available data to create/derive new data.
+                 - You can make new columns by perfoming appropriate mathematical operations.
+                 - Perform Binning.
+                 - Summarizing the data.
+                 - Data Resampling.
 
 
 
