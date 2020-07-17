@@ -2,12 +2,12 @@ These are the notebooks from IBM DATA ANALYSIS COURSE ON COURSERA.
 # Data Analysis
 It is a process to clean, inspect and understand data by applying different mathematical techniques so that a good appropriate decision can be made using that data.
 </br>
-- The Data Analysis step include mainly these steps:</br>
-                       1. Define your question and obejctive.</br>
-                       2. Collect appropriate data.</br>
-                       3. Clean and transform data to a format which is good enough to do analysis and perform data modeling.</br>
-                       4. Analyze data.</br>
-                       5. Interpret results in a way that is easy to understand like giving good facts and numbers or providing different visualization in form of different graphs and charts.</br>
+- The Data Analysis step include mainly these steps:
+  1. Define your question and obejctive.
+  2. Collect appropriate data.
+  3. Clean and transform data to a format which is good enough to do analysis and perform data modeling.
+  4. Analyze data.
+  5. Interpret results in a way that is easy to understand like giving good facts and numbers or providing different visualization in form of different graphs and charts.
 
 ## Data Wrangling                       
 -[Data Wrangling](https://github.com/divyanshchoubisa/DATA-ANALYSIS/blob/master/data-wrangling.ipynb/) is a process of cleaning and structuring the complex available data to a format which would be easy to analyse.</br>
